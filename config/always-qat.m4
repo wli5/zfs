@@ -44,4 +44,3 @@ AC_DEFUN([ZFS_AC_CONFIG_ALWAYS_QAT], [
 		[test "$ZFS_CONFIG" = kernel -o "$ZFS_CONFIG" = all] &&
 		[test "x$qatsrc" != x ])
 ])
-
